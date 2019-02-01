@@ -1,13 +1,13 @@
 ## Index of source code examples:
 
-\Convert PDF to 1-bit BMP
+\Convert PDF To 1-bit BMP
 \Convert PDF To BMP
 \Convert PDF To EMF
+\Convert PDF To High Quality PNG
 \Convert PDF To JPEG
 \Convert PDF To Memory Stream Image
+\Convert PDF To Multipage TIFF
 \Convert PDF To PNG
-\Convert PDF To PNG high quality
-\Convert PDF to TIFF multipaged
 \Make Thumbnail from PDF
 \Print PDF
 \Render Text-Vector-Image Layers in PDF
