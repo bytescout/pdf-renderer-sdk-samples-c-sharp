@@ -9,6 +9,7 @@
 \Convert PDF To Multipage TIFF
 \Convert PDF To PNG
 \Make Thumbnail from PDF
+\PDF to Image With Custom Size
 \Print PDF
 \Render Text-Vector-Image Layers in PDF
 \Rendering PDF to image In Background Thread
