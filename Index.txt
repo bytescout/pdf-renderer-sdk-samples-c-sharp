@@ -9,6 +9,8 @@
 \Convert PDF To Multipage TIFF
 \Convert PDF To PNG
 \Make Thumbnail from PDF
+\Override Resolution in Multipage TIFF
+\Override Resolution in Rendered Image
 \PDF to Image With Custom Size
 \Print PDF
 \Render Text-Vector-Image Layers in PDF
