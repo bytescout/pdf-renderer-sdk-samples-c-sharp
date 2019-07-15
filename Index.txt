@@ -13,6 +13,7 @@
 \Override Resolution in Rendered Image
 \PDF to Image With Custom Size
 \Print PDF
+\Render Part of PDF Page
 \Render Text-Vector-Image Layers in PDF
 \Rendering PDF to image In Background Thread
 \Silent PDF Printing
