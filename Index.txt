@@ -8,6 +8,7 @@
 \Convert PDF To Memory Stream Image
 \Convert PDF To Multipage TIFF
 \Convert PDF To PNG
+\Display License Info
 \Download and Process file
 \Make Thumbnail from PDF
 \Override Resolution in Multipage TIFF
